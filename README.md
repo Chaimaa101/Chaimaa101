@@ -2,15 +2,15 @@
 
 As a passionate **Full-Stack Developer**, I specialize in creating dynamic web applications. With expertise in both front-end and back-end development, I seamlessly integrate user interfaces with server-side logic to deliver responsive, efficient, and secure web solutions.
 
-- 🔭 I’m working as **Full-Stack Developer**
+-  I’m working as **Full-Stack Developer**
 
-- 🌱 I’m currently learning **web developpement, Data analyse**
+-  I’m currently learning **web developpement, Data analyse**
 
-- 💼 Open to Work: **Freelance opportunities and collaborations**
+-  Open to Work: **Freelance opportunities and collaborations**
 
-- 📫 How to reach me **afkirchaiaa36@gmail.com**
+-  How to reach me **afkirchaiaa36@gmail.com**
 
-- ⚡ Fun Facts: **In my free time, I enjoy reading**
+-  Fun Facts: **In my free time, I enjoy reading**
 
 
 <h3 align="left">Connect with me:</h3>
