@@ -8,7 +8,7 @@ As a passionate **Full-Stack Developer**, I specialize in creating dynamic web a
 
 -  Open to Work: **Freelance opportunities and collaborations**
 
--  How to reach me **afkirchaiaa36@gmail.com**
+-  How to reach me **afkirchaimaa36@gmail.com**
 
 -  Fun Facts: **In my free time, I enjoy reading**
 
