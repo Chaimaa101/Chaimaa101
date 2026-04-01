@@ -84,14 +84,14 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChaimaAfkir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ChaimaAfkir&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChaimaaAfkir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ChaimaaAfkir&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaAfkir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaAfkir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
@@ -101,7 +101,7 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ChaimaAfkir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Chaimaa101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -111,7 +111,7 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-[![Chaimaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaimaAfkir&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chaimaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaimaa101&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -131,7 +131,7 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-![snake gif](https://github.com/ChaimaAfkir/ChaimaAfkir/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Chaimaa101/ChaimaAfkir/blob/output/github-snake-dark.svg)
 
 </div>
 
