@@ -84,14 +84,14 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChaimaaAfkir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ChaimaaAfkir&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chaimaa101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Chaimaa101&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaAfkir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa101&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
