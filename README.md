@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Afkir%20Chaimaâ&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Data%20Enthusiast&amp;descAlignY=56&amp;descAlign=50&amp;descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Afkir%20Chaimaa&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=56&descAlign=50&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Laravel+%2B+TypeScript+%2B+Java;Learning+Data+Analysis+📊;Open+to+Freelance+%26+Collabs+💼;I+recharge+with+solitude+%26+books+📖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Laravel+%2B+React+%2B+Mysql;Learning+Data+Analysis+📊;Open+to+Freelance+%26+Collabs+💼;I+recharge+with+%26+books+📖)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,8 +53,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -82,7 +80,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
@@ -91,24 +88,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Chaimaa101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Chaimaa101&theme=tokyonight&hide_border=true" height="180"/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa101&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/> -->
 
 </div>
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Chaimaa101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Chaimaa101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
----
+--- -->
 
 ## 📈 Activity Graph
 
@@ -129,7 +127,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -138,7 +136,7 @@
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
