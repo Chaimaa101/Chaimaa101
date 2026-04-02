@@ -1,34 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Afkir%20Chaimaâ&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Data%20Enthusiast&descAlignY=56&descAlign=50&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Afkir%20Chaimaâ&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Data%20Enthusiast&amp;descAlignY=56&amp;descAlign=50&amp;descColor=ffffff" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Laravel+%2B+JS+%2B+Java+%2B+PHP;Learning+Data+Analysis+📊;Open+to+Freelance+%26+Collabs+💼;Reader+%26+Lifelong+Learner+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+🚀;Laravel+%2B+TypeScript+%2B+Java;Learning+Data+Analysis+📊;Open+to+Freelance+%26+Collabs+💼;I+recharge+with+solitude+%26+books+📖)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87ef7d2e1e9b4c4eab49a8a1f/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566613963323835622f313534313538303631313632342d5445584f4f4354384b5344494f3539472f6b6531375a77644742634f6f6e384c6b677741644f75745746774e4f4e334b464f4e374a564f4f356f3756434f6736774341585f30434c4a666f4f4f6f4f575354365f786f6e757874763237734e784b5f63716c4f4f70766f68434356586e425434353357695f716b4f5974336d73504a3134493356585a625178637977356d484264374565793830633861302f2b3f666f726d61743d3130303077" />
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-```yaml
-name: Afkir Chaimaâ
-role: Full-Stack Developer
-location: Morocco 🇲🇦
-currently_learning:
-  - Web Development (advanced)
-  - Data Analysis
-open_to:
-  - Freelance opportunities
-  - Collaborations
-contact: afkirchaimaa36@gmail.com
-fun_fact: I love reading in my free time 📖
-```
+- 💼 Working as **Full-Stack Developer**
+- 🌱 Currently learning **Web Development & Data Analysis**
+- 🤝 Open to **Freelance opportunities and collaborations**
+- 🧘 I love quiet moments — reading, learning new things, and giving my brain the rest it deserves
+- 🌐 Portfolio: [chaimaa-afkir-portfolio.vercel.app](https://chaimaa-afkir-portfolio.vercel.app/)
+- 📩 Reach me at **afkirchaimaa36@gmail.com**
+
+<br><br>
 
 ---
 
@@ -42,7 +33,7 @@ fun_fact: I love reading in my free time 📖
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chaimaa.di.710)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afkirchaimaa36@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChaimaAfkir&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Chaimaa101&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -54,12 +45,10 @@ fun_fact: I love reading in my free time 📖
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1F)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### ⚙️ Backend & Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -74,6 +63,20 @@ fun_fact: I love reading in my free time 📖
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 📐 Design & Modeling
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![UML](https://img.shields.io/badge/UML-%23007ACC.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+### 🚀 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ### 🔧 Tools & IDEs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -81,10 +84,6 @@ fun_fact: I love reading in my free time 📖
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-[Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -92,14 +91,10 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaimaa101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Chaimaa101&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa101&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa101&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" height="180"/>
 
 </div>
 
@@ -109,7 +104,7 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Chaimaa101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Chaimaa101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -139,7 +134,7 @@ fun_fact: I love reading in my free time 📖
 
 <div align="center">
 
-![snake gif](https://github.com/Chaimaa101/ChaimaAfkir/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Chaimaa101/Chaimaa101/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -150,6 +145,6 @@ fun_fact: I love reading in my free time 📖
 ### 💼 Open to Freelance & Collaborations!
 #### 📩 afkirchaimaa36@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Thanks%20for%20visiting!%20⭐&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=65" />
 
 </div>
